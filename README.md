@@ -1,3 +1,5 @@
+> "In all situations, the government of Raikoth will take the normatively correct action."
+
 # Raikoth
 
 [Scott Alexander](http://slatestarcodex.com/)'s fictional society of [Raikoth](http://slatestarcodex.com/2013/05/15/index-posts-on-raikoth/) represents a framework for governance worth exploring.
