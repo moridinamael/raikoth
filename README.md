@@ -1,5 +1,9 @@
 > "In all situations, the government of Raikoth will take the normatively correct action."
 
+# Discuss
+
+Check out our [Google Group for Raikoth-Ethereum](https://groups.google.com/forum/#!forum/raikoth-ethereum) to chat about the project.
+
 # Raikoth
 
 [Scott Alexander](http://slatestarcodex.com/)'s fictional society of [Raikoth](http://slatestarcodex.com/2013/05/15/index-posts-on-raikoth/) represents a framework for governance worth exploring.
